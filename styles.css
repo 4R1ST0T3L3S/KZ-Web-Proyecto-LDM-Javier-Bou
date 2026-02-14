@@ -1,0 +1,63 @@
+/* ESTILO GENERAL DE LA PAGINA */
+body {
+    /* Fondo de la pagina general */
+    background-color: #ffffff;
+    /* Fuente principal moderna de Google Fonts */
+    font-family: 'Outfit', sans-serif;
+}
+
+
+/* ESTILO DEL BANNER DE NAVEGACION */
+header {
+    /* Para alinear el logo y los enlaces horizontalmente */
+    display: flex;
+
+    /* Centrar los elementos horizontalmente */
+    justify-content: center;
+
+    /* Alinear los elementos verticalmente al centro */
+    align-items: center;
+
+    /* Espacio entre el logo y el enlace */
+    gap: 30px;
+
+    /* Espaciado superior e inferior */
+    padding: 20px 0;
+}
+
+
+/* ESTILO DEL LOGOTIPO */
+.logo {
+    /* Ancho máximo del logotipo */
+    max-width: 67px;
+
+    /* Altura automática */
+    height: auto;
+}
+
+
+/* ESTILO DEL ENLACE DE NAVEGACION */
+.nav-link {
+    /* Color del enlace */
+    color: #333;
+
+    /* Quitar subrayado por defecto */
+    text-decoration: none;
+
+    /* Fuente en negrita */
+    font-weight: 600;
+
+    /* Tamaño de fuente */
+    font-size: 1.1rem;
+
+    /* La fuente */
+    font-family: 'Outfit', sans-serif;
+}
+
+
+/* ESTILO DEL ENLACE DE NAVEGACION AL PASAR EL RATON */
+.nav-link:hover {
+    /* Efecto al pasar el ratón por encima */
+    color: #000;
+    text-decoration: underline;
+}
