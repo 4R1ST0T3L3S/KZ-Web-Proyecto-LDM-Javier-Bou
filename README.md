@@ -12,4 +12,12 @@ La idea con el banner de navegacion es tenerlo siempre centrado y aunque se aña
 
 En prinicipio no voy a añadir un fondo al banner de navegacion.
 
+### 23/02/2026 - Avances en Navegación y Portada (Hero)
+Hoy he continuado dando forma al HTML y estirando el CSS para que el proyecto coja aspecto de tienda profesional:
 
+1. **Favicon:** He enlazado un archivo .ico en el `<head>` para que la pestaña del navegador tenga el icono de la marca.
+2. **Navegación completa:** He ampliado el `<header>` que hice el otro día añadiendo los enlaces a "Tienda", "Formulario" y "Carrito" junto al de Inicio. Además, hice el logotipo un poco más pequeño (de 67px a 40px) para que el banner quede más elegante.
+3. **Sección Hero:** He creado la parte principal (la de impacto) justo debajo del menú. Le he puesto un `<h1>` gigante y un subtítulo. En CSS, le he dado una altura que ocupa el 80% de la pantalla (`min-height: 80vh`) y he centrado los textos con **Flexbox** en forma de columna. 
+4. **Fondo Fotográfico:** Para rematar la sección Hero, he metido una foto en alta resolución de auriculares de fondo (`background-size: cover`), y he aplicado un filtro oscuro usando `box-shadow` para que el texto blanco se lea perfectamente por encima de la foto.
+
+He revisado todos los comentarios del CSS en esta nueva sección del Hero para que sean neutros, directos y mantengan el formato didáctico del archivo.
