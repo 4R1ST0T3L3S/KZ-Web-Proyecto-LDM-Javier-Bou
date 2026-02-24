@@ -14,3 +14,12 @@ En prinicipio no voy a añadir un fondo al banner de navegacion.
 
 ### 23/02/2026 - Lo que he hecho hoy:
 He agregado el favicon, he terminado el banner de nevgacion con agregando los enlaces a tienda formulario y carrito que son los que le tocan a mis companeros he puesto una imagen de fondo para cuando entras a la web ademas de un titulo y subtitulo
+
+### 24/02/2026 - Lo que he hecho hoy:
+He añadido un texto debajo de la imagen principal, rollo filosofía de marca.
+
+Luego he añadido 4 secciones de los 4 tipos de auriculares que vamos a vender. No es sección tienda, solo como un enlace a la sección que englobará todos los modelos de ese tipo dentro de la tienda, pero como no sabía qué poner exactamente en Inicio he decidido ponerlo.
+
+Además de más o menos el CSS terminado aunque no me convence la estética. No sé qué están haciendo mis compañeros, creo que no tienen nada pero he dejado preparado para poner sus páginas. 
+
+Respecto al correo electrónico que has mandado por el educamos, haré commits cada poco, pero todo esto lo hice entre anoche y esta mañana y no sabía que querías commits cada pocos cambios.
