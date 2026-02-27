@@ -26,15 +26,16 @@ header {
 	/* Solo separa la imagen */
 	gap: 2rem;
 
+}
+
 
 header img {
 
-	width: 10px;
+	/* Tamano del logotipo */
+	width: 2rem;
 
 }
 
-
-}
 
 #menu {
 
@@ -44,5 +45,29 @@ header img {
 	/* Quitan todos los espacios que vienen por defecto */
 	padding: 0;
 	margin : 0;
+
+	/* Separacion entre los links del banner */
+	gap: 2rem;
+
+	/* color letra enlaces */
+	color: #000000;
+
+	/* QUITAR LOS ESTILOS POR DEFECTO */
+
+	/* quita los puntos negros */
+	list-style: none;
+
+	/* Quito el subrayado */
+	text-decoration: none;
+
+	/* Tamano de la letra */
+	font-size: bold;
+
+}	
+
+
+main img {
+
+	width: 100%;
 
 }
