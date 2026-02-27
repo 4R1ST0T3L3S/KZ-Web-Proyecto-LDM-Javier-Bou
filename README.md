@@ -12,4 +12,4 @@ Diario sobre los cambios dia a dia, para ver cambios pequeños ir a commit:
 
 	- Ideas para el JS: como tengo que hacer inicio, conforme habras la pagina que haya una imagen que ocupe todo, usando el JS que hicimos en clase, que hace que tu teniendo una sola imagen se vaya cambiando la imagen, me gustaria que fuera con un contador. 
 
-	-
+	- He descargado las tipografias que planteo usar para titulos y parrafos y las he agregado al css.

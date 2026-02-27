@@ -1,0 +1,13 @@
+/*  Tipografias  */
+
+/* Para titulos */
+@font-face {
+    font-family: 'Oswald';
+    src: url('../Oswald');
+}
+
+/* Para parrafos */
+@font-face {
+    font-family: 'Roboto';
+    src: url('../Roboto');
+}
