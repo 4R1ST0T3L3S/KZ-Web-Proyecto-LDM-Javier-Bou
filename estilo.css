@@ -1,4 +1,4 @@
-/*  Tipografias  */
+/*  TIPOGRAFIAS  */
 
 /* Para titulos */
 @font-face {
@@ -15,8 +15,34 @@
 
 /* ZONA DEL BANNER DE NAVEGACION */
 
+header {
+
+	/* La imagen y la lista la ponemos al mismo nivel */
+	display: flex;
+
+	/* Los centro a la misma altura */
+	align-items: center;
+
+	/* Solo separa la imagen */
+	gap: 2rem;
+
+
+header img {
+
+	width: 10px;
+
+}
+
+
+}
+
 #menu {
 
+	/* El display flex cambia la lista de vertical a horizontal */
 	display: flex;
+
+	/* Quitan todos los espacios que vienen por defecto */
+	padding: 0;
+	margin : 0;
 
 }
