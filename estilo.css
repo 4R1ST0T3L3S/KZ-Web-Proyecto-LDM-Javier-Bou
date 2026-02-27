@@ -11,3 +11,12 @@
     font-family: 'Roboto';
     src: url('../Roboto');
 }
+
+
+/* ZONA DEL BANNER DE NAVEGACION */
+
+#menu {
+
+	display: flex;
+
+}
