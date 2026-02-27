@@ -15,6 +15,16 @@
 
 /* ZONA DEL BANNER DE NAVEGACION */
 
+/* estilo del logo en el banner */
+header img {
+
+	/* Tamano del logotipo */
+	width: 2rem;
+
+}
+
+
+/* estilo de los enlaces */
 header {
 
 	/* La imagen y la lista la ponemos al mismo nivel */
@@ -26,15 +36,11 @@ header {
 	/* Solo separa la imagen */
 	gap: 2rem;
 
-}
-
-
-header img {
-
-	/* Tamano del logotipo */
-	width: 2rem;
+	/* Para centrar todo al centro */
+	justify-content: center;
 
 }
+
 
 
 #menu {
@@ -49,21 +55,20 @@ header img {
 	/* Separacion entre los links del banner */
 	gap: 2rem;
 
-	/* color letra enlaces */
-	color: #000000;
-
-	/* QUITAR LOS ESTILOS POR DEFECTO */
-
 	/* quita los puntos negros */
 	list-style: none;
+}	
+
+
+#menu a {
+
+	/* color letra enlaces */
+	color: #000000;
 
 	/* Quito el subrayado */
 	text-decoration: none;
 
-	/* Tamano de la letra */
-	font-size: bold;
-
-}	
+}
 
 
 main img {
